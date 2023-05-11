@@ -1,1 +1,1 @@
-{ Filter = { Bundles = ( "com.apple.springboard", "com.apple.Spotlight"); };}
+{ Filter = { Bundles = ( "com.apple.Spotlight"); };}

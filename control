@@ -1,7 +1,7 @@
 Package: com.imkpatil.spotclearonclose
 Name: SpotClearOnClose
 Depends: mobilesubstrate
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Description: SpotClearOnClose clears your spotlight results/search so that when you open it the next time, you don't have to deal with the last search's Text/results!
 Maintainer: P2KDev <p2kdev@gmail.com>
